@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    /* overflow-x: hidden; */
   }
   
   /* Body styles */
@@ -120,7 +119,7 @@
 
   /* Hero styles */
   .hero {
-    background-image: url("https://via.placeholder.com/1200x600");
+    background-image: url("https://devx.work/blog/wp-content/uploads/2022/02/office-space-working-with-computers-office-equipment-3d-rendering-1-scaled.jpg");
     height: 100vh;
     background-size: cover;
     background-position: center;
